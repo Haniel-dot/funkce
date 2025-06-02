@@ -1,0 +1,13 @@
+def pozdrav(text:str):
+    print(text)
+
+pozdrav("Ahoj")
+
+def soucet(a,b):
+    print(a+b)
+
+num1 = int(input("Zadejte číslo"))
+num2= int(input("Zadejte číslo"))
+
+
+soucet(num1,num2)
